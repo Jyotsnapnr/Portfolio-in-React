@@ -42,12 +42,12 @@ export default function ProjectPaper() {
         <img src={css3} alt="css3" style={{height:"50px"}}/>
 </div>
         <div className="card-text">
-       <a href="https://github.com/Jyotsnapnr/Restaurant-Website" target="_blank"><button 
+       <a href="https://github.com/Jyotsnapnr/Restaurant-Website" target="_blank" rel="noreferrer"><button 
         role="button" 
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", margin: "10px", color:"white"}} 
         >GitHub</button></a> 
-         <a href="https://banana-leaf.vercel.app/" target="_blank"><button 
+         <a href="https://banana-leaf.vercel.app/" target="_blank" rel="noreferrer"><button 
         role="button"
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", color:"white"}} 
@@ -70,12 +70,12 @@ export default function ProjectPaper() {
         <img src={material} alt="mui" style={{height:"50px"}}/>
 </div>
         <div className="card-text">
-       <a href="https://github.com/Jyotsnapnr/Photo-Editor" target="_blank"><button 
+       <a href="https://github.com/Jyotsnapnr/Photo-Editor" target="_blank" rel="noreferrer"><button 
         role="button" 
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", margin: "10px", color:"white"}} 
         >GitHub</button></a> 
-         <a href="https:photo-editor-bay.vercel.app/" target="_blank"><button 
+         <a href="https:photo-editor-bay.vercel.app/" target="_blank" rel="noreferrer"><button 
         role="button"
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", color:"white"}} 
@@ -98,12 +98,12 @@ export default function ProjectPaper() {
         <img src={bootstrap} alt="bootstrap" style={{height:"50px"}}/>
 </div>
         <div className="card-text">
-       <a href="https://github.com/Jyotsnapnr/Weather-App" target="_blank"><button 
+       <a href="https://github.com/Jyotsnapnr/Weather-App" target="_blank" rel="noreferrer"><button 
         role="button" 
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", margin: "10px", color:"white"}} 
         >GitHub</button></a> 
-         <a href="https://weatherapi-rust.vercel.app" target="_blank"><button 
+         <a href="https://weatherapi-rust.vercel.app" target="_blank" rel="noreferrer"><button 
         role="button"
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", color:"white"}} 
@@ -127,12 +127,12 @@ export default function ProjectPaper() {
         <img src={axios} alt="axios" style={{height:"50px"}}/>
 </div>
         <div className="card-text">
-       <a href="https://github.com/Jyotsnapnr/VideoApp" target="_blank"><button 
+       <a href="https://github.com/Jyotsnapnr/VideoApp" target="_blank" rel="noreferrer"><button 
         role="button" 
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", margin: "10px", color:"white"}} 
         >GitHub</button></a> 
-         <a href="https://video-app-six.vercel.app" target="_blank"><button 
+         <a href="https://video-app-six.vercel.app" target="_blank" rel="noreferrer"><button 
         role="button"
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", color:"white"}} 
@@ -159,12 +159,12 @@ export default function ProjectPaper() {
         <img src={bootstrap} alt="bootstrap" style={{height:"50px"}}/>
 </div>
         <div className="card-text">
-       <a href="https://github.com/Jyotsnapnr/random-user" target="_blank"><button 
+       <a href="https://github.com/Jyotsnapnr/random-user" target="_blank" rel="noreferrer"><button 
         role="button" 
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", margin: "10px", color:"white"}} 
         >GitHub</button></a> 
-         <a href="https://randomusergene.herokuapp.com/" target="_blank"><button 
+         <a href="https://randomusergene.herokuapp.com/" target="_blank" rel="noreferrer"><button 
         role="button"
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", color:"white"}} 
@@ -188,12 +188,12 @@ export default function ProjectPaper() {
         <img src={redux} alt="redux" style={{height:"50px"}}/>
 </div>
         <div className="card-text">
-       <a href="https://github.com/Jyotsnapnr/Let-s-Quiz" target="_blank"><button 
+       <a href="https://github.com/Jyotsnapnr/Let-s-Quiz" target="_blank" rel="noreferrer"><button 
         role="button" 
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", margin: "10px", color:"white"}} 
         >GitHub</button></a> 
-         <a href="https:quiz-lemon.vercel.app" target="_blank"><button 
+         <a href="https:quiz-lemon.vercel.app" target="_blank" rel="noreferrer"><button 
         role="button"
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", color:"white"}} 
@@ -217,12 +217,12 @@ export default function ProjectPaper() {
       
 </div>
         <div className="card-text">
-       <a href="https://github.com/Jyotsnapnr/Movie-lab" target="_blank"><button 
+       <a href="https://github.com/Jyotsnapnr/Movie-lab" target="_blank" rel="noreferrer"><button 
         role="button" 
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", margin: "10px", color:"white"}} 
         >GitHub</button></a> 
-         <a href="https://movie-lab-nine.vercel.app/" target="_blank"><button 
+         <a href="https://movie-lab-nine.vercel.app/" target="_blank" rel="noreferrer"><button 
         role="button"
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", color:"white"}} 
@@ -247,12 +247,12 @@ export default function ProjectPaper() {
       
 </div>
         <div className="card-text">
-       <a href="https://github.com/Jyotsnapnr/ChatApp" target="_blank"><button 
+       <a href="https://github.com/Jyotsnapnr/ChatApp" target="_blank" rel="noreferrer"><button 
         role="button" 
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", margin: "10px", color:"white"}} 
         >GitHub</button></a> 
-         <a href="https://chat-app-tan.vercel.app/" target="_blank"><button 
+         <a href="https://chat-app-tan.vercel.app/" target="_blank" rel="noreferrer"><button 
         role="button"
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", color:"white"}} 
