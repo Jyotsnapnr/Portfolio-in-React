@@ -75,7 +75,7 @@ export default function ProjectPaper() {
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", margin: "10px", color:"white"}} 
         >GitHub</a> 
-         <a href="https:photo-editor-bay.vercel.app/" target="_blank" rel="noreferrer"
+         <a href="https://photo-editor-bay.vercel.app/" target="_blank" rel="noreferrer"
         role="button"
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", color:"white"}} 
@@ -193,7 +193,7 @@ export default function ProjectPaper() {
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", margin: "10px", color:"white"}} 
         >GitHub</a> 
-         <a href="https:quiz-lemon.vercel.app" target="_blank" rel="noreferrer"
+         <a href="https://quiz-lemon.vercel.app" target="_blank" rel="noreferrer"
         role="button"
         className="btn" 
         style={{backgroundColor:"rgb(12, 213, 248)", color:"white"}} 
