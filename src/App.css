@@ -10,6 +10,7 @@
 
 
 
+
 .chef__bg {
  
   background-position: center;
@@ -152,9 +153,7 @@
   text-transform: capitalize;
 
 }
-.spoon__img {
-  width: 45px;
-}
+
 
 @media screen and (min-width: 2000px) {
   .custom__button,
@@ -173,9 +172,7 @@
     line-height: 210px;
   }
 
-  .spoon__img {
-    width: 80px;
-  }
+  
   .app__wrapper_img img {
     width: 600px;
   
@@ -250,6 +247,8 @@
 
   height:100px;
 }
+
+
   
 
 }

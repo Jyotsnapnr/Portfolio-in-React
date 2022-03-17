@@ -23,7 +23,7 @@ const Navbar = () => {
         <GiHamburgerMenu color="rgb(25, 160, 250)" fontSize={27} onClick={() => setToggleMenu(true)} style={{cursor: 'pointer'}} />
         {toggleMenu && (
           <div className="app__navbar-smallscreen_overlay flex__center slide-bottom">
-            <MdClose fontSize={27} className="overlay__close" onClick={() => setToggleMenu(false)} style={{cursor: 'pointer'}} />
+            <MdClose fontSize={27} className="overlay__close" onClick={() => setToggleMenu(false)} style={{cursor: 'pointer', color: 'rgb(32, 176, 233)'}} />
             <ul className="app__navbar-smallscreen_links">
               <li><a href="#home" onClick={() => setToggleMenu(false)}>Home</a></li>
               <li><a href="#skills" onClick={() => setToggleMenu(false)}>Skills</a></li>

@@ -21,7 +21,7 @@ function Home() {
       A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with 
       JavaScript / Reactjs / Nodejs 
  </p>
-      <a href="#skills" type="button" className="explore__button">Explore Me</a>
+      <a href="#skills" type="button" className="explore__button" style={{textDecoration:"none", fontWeight:"bold"}}>Explore Me</a>
    
 </div>
     <div className="app__wrapper_img">

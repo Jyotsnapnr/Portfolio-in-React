@@ -26,14 +26,21 @@
 }
 
 
-.social {
-    margin: 100px;
 
-}
+
 
 .socialimg {
-    height: 100px;
-    width: 110px;
     object-fit:cover;
-  border-radius:40%;
+  
 }
+
+.socialimg:hover {
+    transform: scale(1.2);
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+

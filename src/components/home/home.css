@@ -122,6 +122,9 @@ h1 {
         width: 600px;
         height: 400px;
       }
+      .wrapper {
+        margin-top: 300px;
+      }
 }
 
 @media screen and (max-width: 1150px) {
@@ -133,6 +136,9 @@ h1 {
         width: 600px;
         height: 400px;
       }
+      .wrapper {
+        margin-top: 300px;
+      }
 }
 
 @media screen and (max-width: 650px) {
@@ -143,6 +149,9 @@ h1 {
     .app__wrapper_img img {
         width: 300px;
         height: 300px;
+      }
+      .wrapper {
+        margin-top: 300px;
       }
 }
 
@@ -160,6 +169,9 @@ h1 {
       .explore__button {
      
        align-items: center;
+      }
+      .wrapper {
+        margin-top: 200px;
       }
 
     }
